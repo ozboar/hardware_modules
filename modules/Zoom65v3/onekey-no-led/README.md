@@ -15,7 +15,7 @@
 
 #### Connection layout
 
-![PCB](/modules/without-led/images/IMG_2912.jpeg)
+![PCB](/modules/Zoom65v3/onekey-no-led/images/IMG_2912.jpeg)
 #### Ribbon Cable
 
 |         |  1 |   2 |  3 |  4 |      5 |  6 |   7 |   8 |   9 |  10 |     11 |  12 |  13 | 14 |
@@ -27,5 +27,5 @@
 
 #### Module
 
-![Front](/modules/without-led/images/one-key-without-led-front.png)
-![Back](/modules/without-led/images/one-key-without-led-back.png)
+![Front](/modules/Zoom65v3/onekey-no-led/images/one-key-without-led-front.png)
+![Back](/modules/Zoom65v3/onekey-no-led/images/one-key-without-led-back.png)
