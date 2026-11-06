@@ -20,8 +20,10 @@
 
 |         |  1 |   2 |  3 |  4 |      5 |  6 |   7 |   8 |   9 |  10 |     11 |  12 |  13 | 14 |
 |---------|---:|----:|---:|---:|-------:|---:|----:|----:|----:|----:|-------:|----:|----:|---:|
-| **PIN** | [X] | GND | [X] | C6 | B1 | A8 | B13 | C11 | C10 | VCC | B2 | C14 | C13 | [X] |
+| **PIN** | [X] | GND | [X] | C6 | B1 | A8 | B13 | C11 | C10 | VCC | B2 | C14 | C13 | GND |
 | **Use** | | | | row 0 | col 14 | | | | | | col 15 | | | |
+
+A meter on one keyboard confirmed pins 2, 4, 5, 6, 7, 8, 9, 10, 12 and 13, with 3.3 V on pin 10. Pin 4 reaches C6 through a diode on the main board, so the module needs no diode. Pin 3 also shows a diode, source not traced. Pin 14 is also ground. Pins 1 and 11 were not measured.
 
 
 
